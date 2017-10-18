@@ -56,7 +56,7 @@
     "through2": "2.0.3",
     "uuid": "^3.1.0",
     "vuvuzela": "1.0.3",
-    "websql": "0.4.4"
+    "websql": "git+ssh://git@github.com:dkudrin/node-websql"
   },
   "devDependencies": {
     "argsarray": "0.0.1",
